@@ -1,7 +1,15 @@
 # bpm
 Bpm detector 
 
-import wave, array, math, time, argparse, sys
+import wave, 
+array, 
+math, 
+time,
+argparse, 
+sys
+
+
+
 import numpy, pywt
 from scipy import signal
 import pdb
